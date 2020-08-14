@@ -1,0 +1,38 @@
+_repo: The-Young-Game-Warden_62866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
+description: ''
+gutenberg_issued: '2020-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Game wardens -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Hunters -- Juvenile fiction'
+- !lcsh 'Poachers -- Juvenile fiction'
+- !lcsh 'Laziness -- Juvenile fiction'
+- GITenberg
+title: The Young Game-Warden
+url: http://www.gutenberg.org/ebooks/62866
